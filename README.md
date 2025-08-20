@@ -1,5 +1,5 @@
 # New Project
-The Nandalal Readm
+The Nandalal Readm 
 
 # Hello to Project
-This is my new project
+This is my new project Name is Game
